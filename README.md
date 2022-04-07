@@ -47,7 +47,7 @@ MyTable类，这个类在table.py里面
 	2.  运行myclass.py获得0.csv,1.csv,2.csv,3.csv,4.csv
 	3.  运行mytimetable.py打开图像界面
 2. 使用我的数据
-	1.运行mytimetable.py
+	1. 运行mytimetable.py
 
 # 运行效果
 ![运行效果](./image/screenshot0.png "截图")
