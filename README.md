@@ -47,6 +47,8 @@ MyTable类，这个类在table.py里面
 2.  运行myclass.py获得0.csv,1.csv,2.csv,3.csv,4.csv
 3.  运行mytimetable.py打开图像界面
 
+# 运行效果
+![运行效果](./image/screenshot0.png "截图")
 
 # 项目优化和想法
 1. 首先项目可以使用Pyinstaller去打包成exe可执行文件  
